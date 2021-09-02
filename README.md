@@ -1,2 +1,2 @@
 # Yasekasi
-Application software that empower local small businesses 
+Application software that empower small businesses 
